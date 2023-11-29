@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ESemevskiy
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on Charity Projescts
 - 📫 How to reach me @EgorSemevskiy Telegramm
 
